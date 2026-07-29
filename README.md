@@ -39,6 +39,9 @@ npm run lint      # lint do projeto
 
 src/
 ├─ pages/ # Dashboard, Fila, Logs, Empresas
+
 ├─ components/ # componentes compartilhados (ex.: Toast)
+
 ├─ services/api.js # cliente Axios e endpoints da API
+
 └─ App.jsx # navegação lateral e tema
