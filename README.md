@@ -38,6 +38,7 @@ npm run lint      # lint do projeto
 ## Estrutura
 
 src/
+
 ├─ pages/ # Dashboard, Fila, Logs, Empresas
 
 ├─ components/ # componentes compartilhados (ex.: Toast)
